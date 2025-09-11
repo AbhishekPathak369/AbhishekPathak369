@@ -1,45 +1,43 @@
-# 👋 Hi, I'm Abhishek Pathak
+# Hi there 👋, I'm Abhishek Pathak
 
-🎓 B.Tech Student at **ABES Engineering College, Ghaziabad**  
-💻 Passionate Web Developer | UI/UX Enthusiast | Branding Fanatic  
-🌱 Currently diving deep into DSA with Java  
-📫 Reach me at: [pathakabhi290@gmail.com](mailto:pathakabhi290@gmail.com)  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/abhishek-pathak-10a00b273/)
+### 🚀 About Me
+
+I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Engineering College, Ghaziabad**. I enjoy building full-stack applications and solving problems through clean and efficient code.
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tech Stack
 
-Here are the tools and technologies I love working with:
-
-| Frontend | Backend | Database | Styling | Other |
-|----------|---------|----------|---------|-------|
-| ![React](image) | ![Node.js](image) | ![MongoDB](image) | ![CSS](image) | ![LinkedIn](image) |
-| ![HTML](image) | ![Express.js](image) | ![Mongoose](image) | ![JavaScript](image) | ![GitHub](image) |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,git,github" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+### 📚 Skills
 
-| Project | Description | Live Demo |
-|--------|-------------|-----------|
-| 🌦️ **Weather App** | Sleek React-based weather dashboard with real-time data and animated UI | [weather-app-abhiii.vercel.app](https://weather-app-abhiii.vercel.app/) |
-| ✅ **Todo List** | Minimalist task manager with dynamic effects and responsive design | [todo-list2-theta.vercel.app](https://todo-list2-theta.vercel.app/) |
-| 🍽️ **Restaurant Website** | Premium restaurant landing page with bold visuals and smooth transitions | [abhiii-spice.vercel.app](https://abhiii-spice.vercel.app/) |
-
----
-
-## 🎯 What Drives Me
-
-I build web apps that feel viral, meme-style, and instantly recognizable. Every heading, footer, and hover effect is a signature. I believe in turning code into personality—where branding meets interactivity.
+* **Frontend:** React.js, HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB, Mongoose
+* **Other Tools:** Git, GitHub, REST APIs
 
 ---
 
-## 📌 Let's Collaborate
+### 🌟 Projects
 
-If you're into animated UIs, bold design, or just want to make something unforgettable, let's connect!  
-💬 DM me on [LinkedIn](https://www.linkedin.com/in/abhishek-pathak-10a00b273/) or drop a mail at [pathakabhi290@gmail.com](mailto:pathakabhi290@gmail.com)
+🔹 **Weather App** – [Live Demo](https://weather-app-abhiii.vercel.app/)
+
+🔹 **To-Do List** – [Live Demo](https://todo-list2-theta.vercel.app/)
+
+🔹 **Restaurant Website (Abhiii Spice)** – [Live Demo](https://abhiii-spice.vercel.app/)
 
 ---
 
-> “Make it pop. Make it bold. Make it Abhishek.”
+### 📫 Connect With Me
+
+* LinkedIn: [Abhishek Pathak](https://www.linkedin.com/in/abhishek-pathak-10a00b273/)
+* GitHub: [AbhishekPathak369](https://github.com/AbhishekPathak369)
+
+---
+
+⭐️ From [Abhishek Pathak](https://github.com/AbhishekPathak369)
