@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Pathak
 
-🎓 B.Tech student at ABES Engineering College  
+🎓 B.Tech Student at **ABES Engineering College, Ghaziabad**  
 💻 Passionate Web Developer | UI/UX Enthusiast | Branding Fanatic  
 🌱 Currently diving deep into DSA with Java  
 📫 Reach me at: [pathakabhi290@gmail.com](mailto:pathakabhi290@gmail.com)  
@@ -8,13 +8,14 @@
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🚀 Tech Stack
 
-- 🌐 Frontend: **React.js**, **HTML**, **CSS**, **JavaScript**
-- 🧠 Backend: **Node.js**, **Express.js**
-- 🗃️ Database: **MongoDB**, **Mongoose**
-- 🎨 UI/UX: Responsive Design, Animated Layouts, Bold Branding
-- 📈 Tools: Git, GitHub, Vercel, LinkedIn
+Here are the tools and technologies I love working with:
+
+| Frontend | Backend | Database | Styling | Other |
+|----------|---------|----------|---------|-------|
+| ![React](image) | ![Node.js](image) | ![MongoDB](image) | ![CSS](image) | ![LinkedIn](image) |
+| ![HTML](image) | ![Express.js](image) | ![Mongoose](image) | ![JavaScript](image) | ![GitHub](image) |
 
 ---
 
