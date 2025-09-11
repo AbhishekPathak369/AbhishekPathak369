@@ -33,6 +33,14 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 
 ---
 
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPathak369&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 
 * LinkedIn: [Abhishek Pathak](https://www.linkedin.com/in/abhishek-pathak-10a00b273/)
