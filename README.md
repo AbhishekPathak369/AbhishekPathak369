@@ -9,7 +9,7 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,java,c,git,github" />
 </p>
 
 ---
@@ -19,6 +19,7 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 * **Frontend:** React.js, HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB, Mongoose
+* **Programming Languages:** Java, C
 * **Other Tools:** Git, GitHub, REST APIs
 
 ---
@@ -59,6 +60,8 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 
 * LinkedIn: [Abhishek Pathak](https://www.linkedin.com/in/abhishek-pathak-10a00b273/)
 * GitHub: [AbhishekPathak369](https://github.com/AbhishekPathak369)
+* CodeChef: [Profile](https://www.codechef.com/users/abhishekpathak369)
+* GeeksforGeeks: [Profile](https://auth.geeksforgeeks.org/user/abhishekpathak369/)
 
 ---
 
