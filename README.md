@@ -33,10 +33,24 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 
 ---
 
-### 📊 Most Used Languages
+### 📊 Stats & Charts
+
+#### 🔥 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPathak369&layout=compact&theme=tokyonight" />
+</p>
+
+#### ⚡ Tech Stack Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPathak369&show_icons=true&theme=tokyonight" />
+</p>
+
+#### 💻 React & Other Skills Contribution
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekPathak369&theme=tokyonight" />
 </p>
 
 ---
