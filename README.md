@@ -9,7 +9,7 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mongoose,java,c,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,git,github" />
 </p>
 
 ---
