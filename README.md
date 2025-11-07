@@ -32,36 +32,12 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 
 🔹 **Restaurant Website (Abhiii Spice)** – [Live Demo](https://abhiii-spice.vercel.app/)
 
----
-
-### 📊 Stats & Charts
-
-#### 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPathak369&layout=compact&theme=tokyonight" />
-</p>
-
-#### ⚡ Tech Stack Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPathak369&show_icons=true&theme=tokyonight" />
-</p>
-
-#### 💻 React & Other Skills Contribution
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekPathak369&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 * LinkedIn: [Abhishek Pathak](https://www.linkedin.com/in/abhishek-pathak-10a00b273/)
 * GitHub: [AbhishekPathak369](https://github.com/AbhishekPathak369)
-* CodeChef: [Profile](https://www.codechef.com/users/abhishekpathak369)
-* GeeksforGeeks: [Profile](https://auth.geeksforgeeks.org/user/abhishekpathak369/)
+* CodeChef: [Profile](https://www.codechef.com/users/abhishek1173)
+* GeeksforGeeks: [Profile](https://www.geeksforgeeks.org/user/pathakaec4g/)
 
 ---
 
