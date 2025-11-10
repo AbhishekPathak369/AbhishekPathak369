@@ -30,9 +30,9 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 🔹 **To-Do List** – [Live Demo](https://todo-list2-theta.vercel.app/)  
 🔹 **Restaurant Website (Abhiii Spice)** – [Live Demo](https://abhiii-spice.vercel.app/)  
 🔹 **LegalMitra** – MERN-based full-stack legal service platform  
-  🔗 [GitHub Repo](https://github.com/AbhishekPathak369/LegalMitra)  
+  🔗 [GitHub Repo](https://github.com/AbhishekPathak369/LegalMitra_)  
 🔹 **HireUp** – MERN-based job/internship portal  
-  🔗 [GitHub Repo](https://github.com/AbhishekPathak369/HireUp)
+  🔗 [GitHub Repo](https://github.com/AbhishekPathak369/HireUp_)
 
 > 💡 **Explore my GitHub repositories** for more projects, code samples, and creative experiments!
 
