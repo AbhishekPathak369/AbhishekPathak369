@@ -41,8 +41,8 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 ### 📫 Connect With Me
 
 * 💼 LinkedIn: [Abhishek Pathak](https://www.linkedin.com/in/abhishek-pathak-10a00b273/)  
-* 🧑‍💻 GitHub: [AbhishekPathak369](https://github.com/AbhishekPathak369)  
-* 🍽️ CodeChef: [Profile](https://www.codechef.com/users/abhishek1173)  
+* 🧑‍💻 GitHub: [AbhishekPathak369](https://github.com/AbhishekPathak36)  
+* 🍽️ CodeChef: [Profile](https://www.codechef.com/users/abhishek117)  
 * 📘 GeeksforGeeks: [Profile](https://www.geeksforgeeks.org/user/pathakaec4g/)
 
 ---
