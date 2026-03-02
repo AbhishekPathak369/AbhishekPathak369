@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abhishek Pathak
 
-### 🚀 About Me
+###  About Me
 
 I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Engineering College, Ghaziabad**. I enjoy building full-stack applications and solving problems through clean and efficient code. I'm also a **DSA enthusiast** and a **fast, curious learner** who loves exploring new technologies and improving through challenges.
 
