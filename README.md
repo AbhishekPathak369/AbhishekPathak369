@@ -25,7 +25,7 @@ I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Enginee
 
 ### 📚 Skills
 
-* **Languages:** Java, C, JavaScript, SQL, NoSQL
+* **Languages:** Java, JavaScript, SQL, NoSQL
 * **Frontend:** React.js, HTML, CSS, Tailwind CSS
 * **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, File Handling
 * **Database:** MongoDB, MongoDB Atlas, Mongoose
