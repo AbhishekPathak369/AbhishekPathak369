@@ -1,71 +1,192 @@
-# Hi there 👋, I'm Abhishek Pathak
+Hi there 👋, I'm Abhishek Pathak
+<h3 align="left">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3> <p align="left"> <a href="https://portfolio-abhishek-pathak.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit_Now-000?style=for-the-badge&logo=vercel" /> </a> <a href="https://www.linkedin.com/in/abhishekpathakofficial/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Pathak-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:pathakabhi290@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </p>
+🚀 About Me
 
-###  About Me
+🎓 B.Tech Information Technology student at ABES Engineering College, Ghaziabad (2023 – 2027) with a CGPA of 8.29.
 
-I'm a passionate **MERN Stack Developer** and a B.Tech student at **ABES Engineering College, Ghaziabad**. I enjoy building full-stack applications and solving problems through clean and efficient code. I'm also a **DSA enthusiast** and a **fast, curious learner** who loves exploring new technologies and improving through challenges.
+💻 I am a passionate Full Stack MERN Developer who enjoys building scalable web applications, solving real-world problems, and creating responsive user experiences.
 
----
+🔥 I love working on:
 
-## 🌐 **My Portfolio (Must Visit!)**
+Full Stack Web Development
+REST APIs & Authentication
+AI-powered Applications
+Real-time Features
+Problem Solving & DSA
 
-🚀 **Explore my complete journey, projects, skills, and experience here:**
-✨ **Live Portfolio:** 👉 **[https://portfolio-abhishek-pathak.vercel.app/](https://portfolio-abhishek-pathak.vercel.app/)**
+📈 Along with development, I actively practice Data Structures & Algorithms and competitive programming.
 
-> 💡 This portfolio contains my featured projects, technical stack, achievements, and contact details — all in one place.
+🏆 Solved 950+ DSA problems across platforms:
 
----
+LeetCode Rating: 1720 (Top 11.7%)
+CodeChef Rating: 1665 (3⭐ Coder)
+🌐 Portfolio
 
-### 🛠️ Tech Stack
+✨ Explore my complete journey, projects, achievements, skills, and experience:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,git,github" />
-</p>
+🔗 Portfolio Website
+👉 https://portfolio-abhishek-pathak.vercel.app/
 
----
+🛠️ Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,sql" /> </p>
+🌐 Frontend Development
+<p> <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,js" /> </p>
+⚙️ Backend Development
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+🗄️ Databases & Cloud
+<p> <img src="https://skillicons.dev/icons?i=mongodb,aws" /> </p>
+🧰 Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
+💼 Experience
+🚀 Frontend Developer Intern — Digital Yuvaa India (Freelance)
 
-### 📚 Skills
+📍 Noida, Uttar Pradesh
+📅 March 2026 – April 2026
 
-* **Languages:** Java, JavaScript, SQL, NoSQL
-* **Frontend:** React.js, HTML, CSS, Tailwind CSS
-* **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, File Handling
-* **Database:** MongoDB, MongoDB Atlas, Mongoose
-* **Tools & Platforms:** Git, GitHub, Postman, VS Code, Cloudinary, Razorpay
+🔹 Key Contributions
+Migrated a business website from WordPress to React.js
+Developed dynamic product listings across 6+ categories
+Built reusable React components for scalability
+Improved website responsiveness across multiple device sizes
+Integrated Web3Forms for automated lead management
+Implemented React Router for smooth multi-page navigation
+Delivered a production-ready website for Vistaran Exports
+🌟 Featured Projects
+⚖️ LegalMitra — AI Powered Legal Service Platform
+🔥 Full Stack MERN Application
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" /> </p>
+✨ Features
+AI-powered legal chatbot using Groq API
+JWT Authentication & Role-Based Access
+Lawyer-Client Case Management
+Razorpay Payment Integration
+Cloudinary Document Vault
+Real-time Notifications
+Admin Dashboard & Analytics
+Responsive UI across multiple devices
+🛠️ Tech Used
 
----
+React.js Node.js Express.js MongoDB JWT Groq API Cloudinary Razorpay
 
-### 🌟 Projects
+🔗 GitHub Repository
+https://github.com/AbhishekPathak369/LegalMitra
+_
 
-#### 🔥 Major Projects
+🌐 Live Demo
+https://legalmitra.onrender.com
 
-🔹 **LegalMitra** – MERN-based AI-powered legal service platform
-**Tech:** React.js, Node.js, Express.js, MongoDB, JWT, GROQ API, Razorpay, Cloudinary
-🔗 [GitHub Repo](https://github.com/AbhishekPathak369/LegalMitra_) | 🌐 [Live Demo](https://legalmitra.onrender.com)
+💼 HireUp — Job & Internship Portal
+🔥 MERN Stack Career Platform
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" /> </p>
+✨ Features
+Job posting & application workflow
+Candidate & Recruiter dashboards
+JWT Authentication
+Role-based access control
+Student career guidance system
+Multi-language support
+Profile management system
+🛠️ Tech Used
 
-🔹 **HireUp** – MERN-based job & internship portal
-**Tech:** React.js, Node.js, Express.js, MongoDB Atlas, JWT, Tailwind CSS, GROQ API
-🔗 [GitHub Repo](https://github.com/AbhishekPathak369/HireUp_) | 🌐 [Live Demo](https://hireup-abhi.onrender.com/)
+React.js Node.js Express.js MongoDB Atlas Tailwind CSS JWT
 
-#### ⚡ Minor Projects
+🔗 GitHub Repository
+https://github.com/AbhishekPathak369/HireUp
+_
 
-🔹 **Weather App (WeatherSnap)** – Real-time weather application
-**Tech:** React.js, Tailwind CSS, REST API
-🌐 [Live Demo](https://weather-app-abhiii.vercel.app/)
+🌐 Live Demo
+https://hireup-abhi.onrender.com/
 
-🔹 **To-Do List** – Task management web app
-**Tech:** HTML, CSS, JavaScript
-🌐 [Live Demo](https://todo-list2-theta.vercel.app/)
+🌦️ WeatherSnap — Real-Time Weather Application
+<p> <img src="https://skillicons.dev/icons?i=react,tailwind,js" /> </p>
+✨ Features
+Real-time weather updates
+Dynamic city search
+Temperature, humidity & wind details
+Responsive design
+OpenWeatherMap API Integration
+🛠️ Tech Used
 
-🔹 **Restaurant Website (Abhiii Spice)** – Responsive restaurant website
-**Tech:** HTML, CSS, JavaScript
-🌐 [Live Demo](https://abhiii-spice.vercel.app/)
+React.js REST API Tailwind CSS
 
----
+🔗 GitHub Repository
+https://github.com/AbhishekPathak369
 
-### 📫 Connect With Me 
+🌐 Live Demo
+https://weather-app-abhiii.vercel.app/
 
-* 💼 LinkedIn: [Abhishek Pathak](https://www.linkedin.com/in/abhishek-pathak-10a00b273/)
-* 🧑‍💻 GitHub: [AbhishekPathak369](https://github.com/AbhishekPathak369)
+✅ To-Do List Application
+✨ Features
+Add/Delete Tasks
+Responsive UI
+Simple Task Management
+🛠️ Tech Used
 
----
+HTML CSS JavaScript
 
-⭐️ From [Abhishek Pathak](https://github.com/AbhishekPathak369)
+🌐 Live Demo
+https://todo-list2-theta.vercel.app/
+
+🍽️ Abhiii Spice — Restaurant Website
+✨ Features
+Fully Responsive Website
+Interactive UI
+Smooth Navigation
+Clean Design
+🛠️ Tech Used
+
+HTML CSS JavaScript
+
+🌐 Live Demo
+https://abhiii-spice.vercel.app/
+
+🧠 Problem Solving & Competitive Programming
+
+🚀 Strong understanding of:
+
+Data Structures & Algorithms
+Dynamic Programming
+Graph Algorithms
+Trees & Binary Trees
+Sliding Window
+Recursion & Backtracking
+Greedy Algorithms
+
+📌 Platforms:
+
+LeetCode
+CodeChef
+Codeforces
+GeeksforGeeks
+🏆 Achievements
+
+🥇 Top 10 among 1000+ teams — Innovatex Hackathon 2026
+
+🥈 Top 60 Finalist among 2000+ participants — SnowHack IPEC Hackathon
+
+📈 Solved 950+ DSA Questions across coding platforms
+
+⭐ CodeChef 3-Star Coder
+
+📜 Certifications
+AWS Academy Graduate — Cloud Architecting
+NPTEL (IIT Kanpur) — Enhancing Soft Skills & Personality
+Data Structures & Algorithms — Apna College
+TCS iON Career Edge — Young Professional
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPathak369&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekPathak369&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPathak369&layout=compact&theme=tokyonight" /> </p>
+📫 Connect With Me
+
+📧 Email: pathakabhi290@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/abhishekpathakofficial/
+
+🧑‍💻 GitHub:
+https://github.com/AbhishekPathak369
+
+🌐 Portfolio:
+https://portfolio-abhishek-pathak.vercel.app/
+
+<h3 align="center">⭐ Building scalable products, solving problems, and continuously learning every day.</h3>
