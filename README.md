@@ -84,10 +84,12 @@ LegalMitra is a complete AI-powered legal assistance platform where users can co
 
 ### Features
 
+- Bail Prediction feature
 - AI-powered legal chatbot using Groq API
 - Lawyer and Client dashboards
 - Secure JWT Authentication & Role-based Access
 - Case and appointment management system
+- Law-related query solving system
 - Razorpay payment integration
 - Cloudinary document storage system
 - Real-time notifications and updates
