@@ -252,7 +252,7 @@ Worked on developing and deploying a modern business website for **Vistaran Expo
 
 </table>
 
----
+
 ---
 
 # 🚀 Major Projects
