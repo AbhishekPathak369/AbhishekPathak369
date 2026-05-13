@@ -43,7 +43,7 @@ I enjoy building real-world products using the MERN stack and continuously impro
 
 ---
 
-# Tech Stack
+# Experience
 
 ### Languages
 
@@ -249,7 +249,27 @@ Responsive restaurant landing page with modern UI and smooth navigation.
 
 ---
 
-# Coding Profiles
+# Tech Stack
+
+## Languages
+
+`Java` `C++` `C` `Python` `JavaScript` `SQL`
+
+## Frontend
+
+`React.js` `Redux` `HTML5` `CSS3` `Tailwind CSS`
+
+## Backend
+
+`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Multer`
+
+## Database & Cloud
+
+`MongoDB` `MongoDB Atlas` `Cloudinary` `AWS`
+
+## Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Pos
 
 <div align="left">
 
