@@ -231,39 +231,7 @@ Modern restaurant web application built using React.js with attractive UI, smoot
 
 ---
 
-# 🛠️ Tech Stack
 
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,sql" />
-</p>
-
-## Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,js" />
-</p>
-
-## Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## Database & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,aws" />
-</p>
-
-## Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
 
 # 📊 Coding Profiles
 
@@ -322,6 +290,40 @@ Modern restaurant web application built using React.js with attractive UI, smoot
 
 </div>
 
+---
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,sql" />
+</p>
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,js" />
+</p>
+
+## Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,aws" />
+</p>
+
+## Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
 ---
 
 # 🤝 Connect With Me
