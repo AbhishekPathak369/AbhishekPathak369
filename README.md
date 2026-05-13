@@ -44,8 +44,7 @@ I enjoy building real-world products using modern technologies and continuously 
 - ⭐ CodeChef 3⭐ Coder
 - 🚀 Passionate about scalable product development
   
-Tech Stack
-
+Tech Stack :-
 JavaScript, Java, C++, React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, Redux, REST APIs, JWT Authentication, Cloudinary, Multer, Razorpay, Firebase, Git, GitHub, Postman, Vercel, Netlify.
 ---
 
