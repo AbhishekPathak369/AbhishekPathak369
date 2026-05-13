@@ -45,7 +45,188 @@ I enjoy building real-world products using modern technologies and continuously 
 - 🚀 Passionate about scalable product development
 
 ---
+# 🛠️ Tech Stack
 
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=java" width="48" /><br/>
+<b>Java</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/>
+<b>C++</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=c" width="48" /><br/>
+<b>C</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=python" width="48" /><br/>
+<b>Python</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=javascript" width="48" /><br/>
+<b>JavaScript</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/>
+<b>SQL</b>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## 🎨 Frontend Development
+
+<table>
+
+<tr>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=react" width="48" /><br/>
+<b>React.js</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=redux" width="48" /><br/>
+<b>Redux</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=html" width="48" /><br/>
+<b>HTML5</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=css" width="48" /><br/>
+<b>CSS3</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br/>
+<b>Tailwind CSS</b>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## ⚙️ Backend Development
+
+<table>
+
+<tr>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/>
+<b>Node.js</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=express" width="48" /><br/>
+<b>Express.js</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="48" /><br/>
+<b>JWT Auth</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" /><br/>
+<b>REST APIs</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="48" /><br/>
+<b>Cloudinary</b>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🗄️ Database & Cloud
+
+<table>
+
+<tr>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br/>
+<b>MongoDB</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=aws" width="48" /><br/>
+<b>AWS</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" /><br/>
+<b>Firebase</b>
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+---
 # 💼 Experience
 
 ## Frontend Developer Intern — Digital Yuvaa India (Freelance)
