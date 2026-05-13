@@ -161,7 +161,13 @@ HireUp is a career platform where recruiters can post jobs and students can appl
 
 ---
 
-# 🚀 NeXus — AI Powered Student & Career Assistant
+# 🚀 NeXus
+
+🔗 **GitHub Repository**
+[https://github.com/AbhishekPathak369/NeXus.git](https://github.com/AbhishekPathak369/NeXus.git)
+
+🌐 **Live Demo**
+[https://nexus-academic-career.vercel.app/](https://nexus-academic-career.vercel.app/) — AI Powered Student & Career Assistant
 
 ### AI Integrated Platform
 
